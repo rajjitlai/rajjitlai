@@ -12,7 +12,7 @@
 - 😄 Pronouns: He/His
 - 🔭 I’m currently building [My Portfolio](https://mypersonalportfolio-rl.netlify.app).
 - 🌱 I’m currently learning more about Python Programming.
-- 🤔 I’m looking for help with Javascript Documentation.
+- 🤔 I’m interested in Javascript Projects.
 - 💬 Ask me about C++, HTML5, CSS3 or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I spend most of my day with coding.
