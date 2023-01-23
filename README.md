@@ -44,6 +44,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/python-yellow.svg?style=for-the-badge&logo=python&logoColor=blue)
+![Php](https://img.shields.io/badge/php-purple.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ## 💳 Github Profile Summary Card
 
