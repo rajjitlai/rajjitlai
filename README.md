@@ -7,6 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajjitlai&label=Views&color=blue&style=plastic&style=for-the-badge" alt="rajjitlai" /> </p>
 
+<p align="center">
+	<img src="https://media1.tenor.com/images/94fe41ac3a9b24e7097c92ed917a2fe5/tenor.gif?itemid=10131450" width="320">
+</p>
+
 # 💫 About Me :
 
 - 😄 Pronouns: He/His
