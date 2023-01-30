@@ -1,14 +1,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-mlaishram38@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mlaishram38@gmail.com)](mailto:mlaishram38@gmail.com)
 
-<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Rajjit Laishram</h1>
+<h1 align="center"> Hi, I'm Rajjit Laishram</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajjitlai&label=Views&color=blue&style=plastic&style=for-the-badge" alt="rajjitlai" /> </p>
 
 <p align="center">
-	<img src="https://media1.tenor.com/images/94fe41ac3a9b24e7097c92ed917a2fe5/tenor.gif?itemid=10131450" width="320">
+	<img src="https://media1.tenor.com/images/94fe41ac3a9b24e7097c92ed917a2fe5/tenor.gif?itemid=10131450" width="320" alt="hello">
 </p>
 
 # 💫 About Me :
