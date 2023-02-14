@@ -1,4 +1,4 @@
-[![Gmail Badge](https://img.shields.io/badge/-mlaishram38@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mlaishram38@gmail.com)](mailto:mlaishram38@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mlaishram38@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mlaishram38@gmail.com)](mailto:rajjitlai@mail.com)
 
 <h1 align="center"> Hi, I'm Rajjit Laishram</h1>
 
