@@ -11,7 +11,7 @@
 # 💫 About Me :
 
 - 😄 Pronouns: He/His
-- 🔭 I’m currently building [My Portfolio](https://mypersonalportfolio-rl.netlify.app).
+- 🔭 I’m currently building [My Blogging Site](https://rjsblogg.netlify.app/).
 - 🌱 I’m currently learning more about Python Programming.
 - 🤔 I’m interested in Javascript Projects.
 - 💬 Ask me about C++, HTML5, CSS3 or any tech-related stuff.
