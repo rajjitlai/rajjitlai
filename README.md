@@ -72,10 +72,6 @@
 	<img width="70%" src="https://github-profile-trophy.vercel.app/?username=rajjitlai&theme=radical&margin-w=15&margin-h=15&&no-frame=true&row=1" />
 </p>
 
-<p align="center">
-	<img width="80%" src="https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding-dodgerred.svg?style=for-the-badge" />
-</p>
-
 ## ⚒️ My Projects
 
 <p align="center">
@@ -83,6 +79,14 @@
 	<img width="240px" src="https://d33wubrfki0l68.cloudfront.net/5a14e9c6fb012b9f28173d7b67b02c588cc1a9e0/2cf9b/assets/images/project-2.webp" />
 	<img width="240px" src="https://d33wubrfki0l68.cloudfront.net/d5da4e25aa95eeecd64b8054c88f92d11c6695c1/b166b/assets/images/project-3.webp" />
 	<img width="240px" src="https://d33wubrfki0l68.cloudfront.net/924ef5207f64e90f6f42acac6e2574815211d125/5d1d6/assets/images/project-4.webp" />
+</p>
+
+<p align="center">
+	More projects coming soon!
+</p>
+
+<p align="center">
+	<img width="80%" src="https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding-dodgerred.svg?style=for-the-badge" />
 </p>
 
 ---
