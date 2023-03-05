@@ -16,7 +16,7 @@
 - 🤔 I’m interested in Javascript Projects.
 - 💬 Ask me about C++, HTML5, CSS3 or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend most of my day with coding.
+- ⚡ Fun fact: I spend most of my day with coding. I love sleeping and 82.
 
 ## 🌐 Socials
 
