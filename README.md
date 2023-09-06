@@ -8,10 +8,10 @@
 
 # 💫 About Me :
 
-- 😄 Pronouns: He/His
+- 😄 I'm a MALE
 - 🔭 I’m currently building [My Blogging Site](https://rjsblogg.netlify.app/).
 - 🌱 I’m currently learning more about Python Programming.
-- 🤔 I’m interested in Javascript Projects.
+- 🤔 I’m interested in Javascript Projects, ReactJs Projects, NextJS Projects.
 - 💬 Ask me about C++, HTML5, CSS3 or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I spend most of my day with coding. I love sleeping and 82.
@@ -20,7 +20,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rajjitlaishram)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/rjinstitute)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rajjitlaishram)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/82rajjitlaishram)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/rajjit-laishram-a03a02255)
 [![Facebook Page](https://img.shields.io/badge/Facebook_Page-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100087904707580&mibextid=ZbWKwL)
 [![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2vlwt6mQUvrBiNxxATwqWA?sub_confirmation=1)
