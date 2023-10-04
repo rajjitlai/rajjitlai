@@ -9,12 +9,12 @@
 # 💫 About Me :
 
 - 😄 I'm a MALE
-- 🔭 I’m currently building [My Blogging Site](https://rjsblogg.netlify.app/).
-- 🌱 I’m currently learning more about Python Programming.
+- 🔭 I’m currently building [My Blogging Site](https://rjsblogg.netlify.app/) using pure HTML, CSS and JS.
+- 🌱 I’m currently learning more about Python Programming and OpenCV Projects.
 - 🤔 I’m interested in Javascript Projects, ReactJs Projects, NextJS Projects.
 - 💬 Ask me about C++, HTML5, CSS3 or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend most of my day with coding. I love sleeping and 82.
+- ⚡ Fun fact: I love sleeping and 82.
 
 ## 🌐 Socials
 
