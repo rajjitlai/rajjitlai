@@ -1,5 +1,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-rajjitlai@mail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajjitlai@mail.com)](mailto:rajjitlai@mail.com)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajjitlai&label=Views&color=blue&style=plastic&style=for-the-badge" alt="rajjitlai" /> </p>
+
 <h1 align="center"> Hi, I'm Rajjit Laishram</h1>
 
 <p align="center">
