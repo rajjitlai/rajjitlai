@@ -5,7 +5,7 @@
 <h1 align="center"> Hi, I'm Rajjit Laishram</h1>
 
 <p align="center">
-	<img src="https://media1.tenor.com/images/94fe41ac3a9b24e7097c92ed917a2fe5/tenor.gif?itemid=10131450" width="320" alt="hello">
+	<img src="https://myfilesandimagessite.netlify.app/resources/images/matrix-small.gif" width="100%" alt="hello">
 </p>
 
 # 💫 About Me :
