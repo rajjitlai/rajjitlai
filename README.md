@@ -91,9 +91,7 @@
 
 ## 💰You can help me by Donating
 
-<p align="center">
-	[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/rajjitlaishram)
-</p>
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/rajjitlaishram)
 
 ---
 
