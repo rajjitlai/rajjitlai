@@ -89,6 +89,10 @@
 	<img width="80%" src="https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding-dodgerred.svg?style=for-the-badge" />
 </p>
 
+## 💰You can help me by Donating
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/rajjitlaishram)
+
 ---
 
 <div align="center">
