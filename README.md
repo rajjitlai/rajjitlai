@@ -1,16 +1,22 @@
-[![Gmail Badge](https://img.shields.io/badge/-rajjitlai@mail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajjitlai@mail.com)](mailto:rajjitlai@mail.com)
+###
+<div align="right">
+  <a href="mailto:rajjitlai@mail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=rajjitlai@mail.com&logo=gmail&label=&color=050f2c&logoColor=00aeff&labelColor=fff050f2c&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajjitlai&label=Views&color=blue&style=plastic&style=for-the-badge" alt="rajjitlai" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rajjitlai&label=Views&color=blue&style=plastic&style=icon" alt="rajjitlai" /> </p>
 
-<h1 align="center"> Hi, I'm Rajjit Laishram</h1>
+###
 
-<p align="center">
-	<img src="https://media1.tenor.com/images/94fe41ac3a9b24e7097c92ed917a2fe5/tenor.gif?itemid=10131450" width="320" alt="hello">
-</p>
+<div style="width: 100%; height: 300px; display: flex; justify-content: space-between; align-items: center; justify-content:center;">
+  <h1 style="margin: 0;">Hi, I'm Rajjit Laishram 👋🏻</h1>
+  <img style="height: 200px;" src="https://media1.tenor.com/images/94fe41ac3a9b24e7097c92ed917a2fe5/tenor.gif?itemid=10131450" alt="Rajjit Laishram waving gif">
+</div>
 
 # 💫 About Me :
 
-- 😄 I'm a MALE
+- 😄 Happiness Comes from Coding.
 - 🔭 I’m currently building [My Blogging Site](https://rjsblogg.netlify.app/) using pure HTML, CSS and JS.
 - 🌱 I’m currently learning more about Python Programming and OpenCV Projects.
 - 🤔 I’m interested in Javascript Projects, ReactJs Projects, NextJS Projects.
@@ -18,145 +24,160 @@
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I love sleeping and 82.
 
-## 💻 Tech Stack
+## 🌐 My Social Profiles
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="40" alt="atom logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-</div>
-
-## 💳 Github Profile Summary Card
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajjitlai&theme=algolia" />
-</p>
-
-## 📟 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rajjitlai&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajjitlai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=algolia&hide_border=false&order=2&custom_title=My%20Streak" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=rajjitlai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1&custom_title=My%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=rajjitlai&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajjitlai&radius=16&theme=arctic&area=true&order=5&custom_title=My%20Contribution%20Graph" height="300" alt="activity-graph graph"  />
-</div>
-
-## ⚒️ My Projects
-
-<p align="center">
-	<img width="240px" src="https://d33wubrfki0l68.cloudfront.net/35d1ca92c4c460dc62a6c16ee7420e1e9ea3663c/0b448/assets/images/project-1.webp" />
-	<img width="240px" src="https://d33wubrfki0l68.cloudfront.net/5a14e9c6fb012b9f28173d7b67b02c588cc1a9e0/2cf9b/assets/images/project-2.webp" />
-	<img width="240px" src="https://d33wubrfki0l68.cloudfront.net/d5da4e25aa95eeecd64b8054c88f92d11c6695c1/b166b/assets/images/project-3.webp" />
-	<img width="240px" src="https://d33wubrfki0l68.cloudfront.net/924ef5207f64e90f6f42acac6e2574815211d125/5d1d6/assets/images/project-4.webp" />
-</p>
-
-<p align="center">
-	More projects coming soon!
-</p>
-
-## 🎵 Spotify Listening Activity
-
-<div align="center">
-  <a href="https://open.spotify.com/user/oosas8a3zd7pxtsgbfd4pwhzg">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=oosas8a3zd7pxtsgbfd4pwhzg&count=5&unique=true" alt="Spotify recently played"  />
+  <a href="https://instagram.com/rajjitlaishram" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=icons" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://in.linkedin.com/in/rajjit-laishram-a03a02255" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=icons" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/rajjitlaishram" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=icons" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://twitter.com/rajjitlai" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=icons" height="35" alt="twitter logo"  />
   </a>
 </div>
 
-## My Contributions
+## 💻 My Tech Stack
 
-<img src="https://raw.githubusercontent.com/rajjitlai/rajjitlai/output/snake.svg" alt="Snake animation" />
+<div align="left">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="30" alt="appwrite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=atom" height="30" alt="atom logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="30" alt="netlify logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/heroku/430098" height="30" alt="heroku logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="30" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+</div>
 
-<p align="center">
-	<img width="80%" src="https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding-dodgerred.svg?style=for-the-badge" />
-</p>
+## 💳 My Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajjitlai&theme=algolia" />
+</div>
+
+## ✒️ My Used Languages
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajjitlai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=algolia&hide_border=false&order=2&custom_title=My%20Used%20Languages" height="150" alt="languages graph"  />
+</div>
+
+## 📟 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajjitlai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1&custom_title=My%20Stats" height="150" alt="stats graph"  />
+</div>
+
+## 🎮 My Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rajjitlai&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+## 🏆 My Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=rajjitlai&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" alt="trophy graph"  />
+</div>
+
+## 📈 My Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajjitlai&radius=16&theme=arctic&area=true&order=5&custom_title=My%20Activity%20Graph" alt="activity-graph graph"  />
+</div>
+
+## 🎵 My Music Activity
+
+<div align="center">
+  <a href="https://open.spotify.com/user/oosas8a3zd7pxtsgbfd4pwhzg">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=oosas8a3zd7pxtsgbfd4pwhzg&count=5&unique=true" alt="Spotify recently played" />
+  </a>
+</div>
+
+## 🙌🏻 My Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rajjitlai/rajjitlai/output/snake.svg" alt="Snake animation" />
+</div>
 
 ## 💰You can help me by Donating
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/rajjitlaishram)
-
----
-
-## 🌐 Follow me on
-
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/93727816?v=4"  />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="90" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="90" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="90" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="90" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="90" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="90" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="90" height="40" alt="youtube logo"  />
+<div align="left">
+  <a href="https://www.paypal.com/paypalme/rajjitlaishram" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=icons" height="25" alt="paypal logo"  />
+  </a>
 </div>
 
-<div align="center">
+## 🌐 My Social Pages
+<div align="left">
+  <a href="https://telegram.me/rjinstitute" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=icons" height="30" alt="telegram logo"  />
+  </a>
+  <a href="https://www.instagram.com/rjinstitute.rajjit/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=icons" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@rjinstitute.?sub_confirmation=1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=icons" height="30" alt="youtube logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100087904707580&mibextid=ZbWKwL" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=icons" height="30" alt="facebook logo"  />
+  </a>
+</div>
 
 ### Show some ❤️ by starring some of the repositories!
 
-</div>
-
 ---
-
-
