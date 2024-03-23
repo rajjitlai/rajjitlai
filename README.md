@@ -1,4 +1,5 @@
 ###
+
 <div align="right">
   <a href="mailto:rajjitlai@mail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=rajjitlai@mail.com&logo=gmail&label=&color=050f2c&logoColor=00aeff&labelColor=fff050f2c&style=for-the-badge" height="30" alt="gmail logo"  />
@@ -9,9 +10,9 @@
 
 ###
 
-<div style="width: 100%; height: 300px; display: flex; justify-content: space-between; align-items: center; justify-content:center;">
+<div align="center">
+  <img style="height: 200px; border-radius: 50%;" src="https://media1.tenor.com/images/94fe41ac3a9b24e7097c92ed917a2fe5/tenor.gif?itemid=10131450" alt="Rajjit Laishram waving gif">
   <h1 style="margin: 0;">Hi, I'm Rajjit Laishram 👋🏻</h1>
-  <img style="height: 200px;" src="https://media1.tenor.com/images/94fe41ac3a9b24e7097c92ed917a2fe5/tenor.gif?itemid=10131450" alt="Rajjit Laishram waving gif">
 </div>
 
 # 💫 About Me :
@@ -156,14 +157,15 @@
 
 ## 💰You can help me by Donating
 
-<div align="left">
+<div align="center">
   <a href="https://www.paypal.com/paypalme/rajjitlaishram" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=icons" height="25" alt="paypal logo"  />
   </a>
 </div>
 
 ## 🌐 My Social Pages
-<div align="left">
+
+<div align="center">
   <a href="https://telegram.me/rjinstitute" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=icons" height="30" alt="telegram logo"  />
   </a>
