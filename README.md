@@ -19,7 +19,7 @@
 
 - 😄 Happiness Comes from Coding.
 - 🔭 I’m building [My Blogging Site](https://rjsblogg.netlify.app/) using pure HTML, CSS and JS.
-- 🚀 I'm currently working on "new blog website" using React.js and Appwrite.
+- 🚀 I'm currently working on "new blog website" using MERN Stack.
 - 🌱 I’m currently learning more about Python Programming and OpenCV Projects.
 - 🤔 I’m interested in Javascript Projects, ReactJs Projects, NextJS Projects.
 - 💬 Ask me about C++, HTML5, CSS3 or any tech-related stuff.
