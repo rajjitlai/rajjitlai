@@ -115,7 +115,7 @@
 ## ✒️ My Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajjitlai&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=10&theme=algolia&hide_border=false&order=2&custom_title=My%20Used%20Languages" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajjitlai&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=20&theme=algolia&hide_border=false&order=2&custom_title=My%20Used%20Languages" alt="languages graph"  />
 </div>
 
 ## 📟 My GitHub Stats
