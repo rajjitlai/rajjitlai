@@ -11,38 +11,60 @@
 ###
 
 <div align="center">
-  <img width="180" src="https://media1.tenor.com/images/94fe41ac3a9b24e7097c92ed917a2fe5/tenor.gif?itemid=10131450" alt="Rajjit Laishram waving gif">
-  <h1 style="margin: 0;">Hi, I'm Rajjit Laishram 👋🏻</h1>
+  <img width="180" src="https://media.tenor.com/hJIQKdiU47sAAAAM/rabbit-cute.gif" alt="Rajjit Laishram waving gif">
+  <h1 style="margin: 0;">Hello, I'm Rajjit Laishram 👋🏻</h1>
 </div>
 
-# 💫 About Me :
+# 💫 About Me
 
-- 😄 Happiness Comes from Coding.
-- ⚙️ Head Developer of Cybrella, 2024
-- 🔭 I have built [My Blogging Site](https://rjsblog.in/) using React JS and Appwrite.
-- 🚀 I'm currently working on full stack projects.
-- 🌱 I’m currently learning more about Python Programming and OpenCV Projects.
-- 🤔 I’m interested in Javascript Projects, ReactJs Projects, NextJS Projects.
-- 💬 Ask me about C++, HTML5, CSS3 or any tech-related stuff.
-- 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I love sleeping and 82.
+I'm a dedicated **Full-Stack Developer & Embedded Systems Engineer** with a passion for creating innovative solutions that bridge the gap between software and hardware. Currently, I serve as the Head Developer at **Cybrella** (2024) and as a Full Stack Web Developer and Programmer at **RJ Institute**. My expertise spans from web development to IoT and drone automation.
 
-## 🌐 My Social Profiles
+## 🛠️ Skills & Technologies
 
-<div align="center">
-  <a href="https://instagram.com/rajjitlaishram" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://in.linkedin.com/in/rajjit-laishram-a03a02255" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/rajjitlaishram" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://twitter.com/rajjitlai" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
+### 🔹 Web Development
+
+- **Frontend**: React.js, Next.js, React Native (Expo), Tailwind CSS, ShadCN UI
+- **Backend**: Django, FastAPI, Express.js
+- **Databases**: MongoDB, Appwrite, SQL, MySQL, PostgreSQL, Firebase
+
+### 🔹 Embedded Systems & IoT
+
+- **Hardware**: Raspberry Pi, Pixhawk, Arduino, NodeMCU
+- **Software & Protocols**: DroneKit, WebSockets, Python scripting
+- **IoT Platforms**: MQTT, HTTP, WebSockets
+
+### 🔹 Programming Languages
+
+- **Proficient**: JavaScript, Python, C++
+- **Familiar**: C, Java
+
+### 🔹 Other Tools
+
+- Git, Docker, Linux, CI/CD
+- REST APIs, GraphQL, WebSockets
+
+## 📌 Notable Projects
+
+### 📝 Dynamic Blog Web Application
+
+Built a React X Appwrite Blog platform where users read blog posts with category-based filtering, download notes, offering an optimized and user-friendly experience.
+
+### 🔧 Event Management System
+
+Designed a **Django-based** system enabling users to register events, manage participants, and generate leaderboards for various competitions.
+
+### 🌐 Personal Portfolio Website
+
+Developed and deployed a personal portfolio using **React.js** and **Appwrite**, showcasing my projects and skills. [Visit Portfolio](https://rajjitlaishram.netlify.app/)
+
+### 🎨 CyanoBactTheme for VS Code
+
+Created **CyanoBactTheme**, a Visual Studio Code theme inspired by Cyberpunk aesthetics, enhancing the coding experience with vibrant visuals. [GitHub Repository](https://github.com/rajjitlai/CyanoBactTheme)
+
+### 📚 Educational Repositories
+
+- **BCA 2nd Sem Python Programs**: A collection of Python programs tailored for BCA students. [GitHub Repository](https://github.com/rajjitlai/bca-2nd-sem-Python)
+- **BCA 3rd Sem C Programs**: Practical codes and test examples for learning Data Structures using C. [GitHub Repository](https://github.com/rajjitlai/BCA-3rd-SEM-C-Programs)
 
 ## 💻 My Tech Stack
 
@@ -143,14 +165,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajjitlai&radius=16&theme=arctic&area=true&order=5&custom_title=My%20Activity%20Graph" alt="activity-graph graph"  />
 </div>
 
-## 🎵 My Music Activity
-
-<div align="center">
-  <a href="https://open.spotify.com/user/oosas8a3zd7pxtsgbfd4pwhzg">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=oosas8a3zd7pxtsgbfd4pwhzg&count=5&unique=true" alt="Spotify recently played" />
-  </a>
-</div>
-
 ## 🙌🏻 My Contributions
 
 <div align="center">
@@ -165,23 +179,28 @@
   </a>
 </div>
 
-## 🌐 My Social Pages
+## 🎯 Current Endeavors
 
-<div align="center">
-  <a href="https://telegram.me/rjinstitute" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
-  </a>
-  <a href="https://www.instagram.com/rjinstitute.rajjit/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://www.youtube.com/@rjinstitute.?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100087904707580&mibextid=ZbWKwL" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
-  </a>
-</div>
+- Advancing **drone navigation systems** through AI-driven automation.
+- Scaling **real-time applications** to enhance performance and reliability.
+- Deepening knowledge in **Python Programming** and exploring **OpenCV Projects**.
 
-### Show some ❤️ by starring some of the repositories!
+## 🌐 Online Presence
+
+- **GitHub**: [rajjitlai](https://github.com/rajjitlai)
+- **LinkedIn**: [Rajjit Laishram](https://linkedin.com/in/rajjit-laishram-a03a02255)
+- **Twitter**: [@rajjitlai](https://twitter.com/rajjitlai)
+- **Instagram**: [@rajjitlaishram](https://www.instagram.com/rajjitlaishram/)
+- **Facebook**: [Rajjit Laishram](https://www.facebook.com/rajjitlaishram/)
+- **YouTube**: [RJ Institute](https://www.youtube.com/@rjinstitute.rajjit)
+- **Portfolio**: [rajjitlaishram.netlify.app](https://mypersonalportfolio-rl.netlify.app)
+
+## 📬 Let's Connect!
+
+I'm always eager to collaborate, learn, and contribute to innovative projects. Feel free to reach out through any of the platforms above.
+
+💡 "Happiness Comes from Coding."
+
+### Show some ❤️ by starring some of the repositories
 
 ---
