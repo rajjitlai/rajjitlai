@@ -49,6 +49,14 @@ I'm a dedicated **Full-Stack Developer & Embedded Systems Engineer** with a pass
 
 Built a React X Appwrite Blog platform where users read blog posts with category-based filtering, download notes, offering an optimized and user-friendly experience.
 
+### Affiliate Marking Showcase Web Application
+
+Treat Path Global is the most trusted destination for the highest quality medicines and health and pet care solutions. Our mission is to provide accessible and reliable healthcare options to everyone. [Visit now](https://treatpathglobal.com/)
+
+### Portfolio Web Application Designs
+
+Designed many different Portfolio Web Applications which can be used by any user or company, showcasing his/her abilities and performance to the whole world.
+
 ### 🔧 Event Management System
 
 Designed a **Django-based** system enabling users to register events, manage participants, and generate leaderboards for various competitions.
