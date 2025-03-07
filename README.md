@@ -17,7 +17,7 @@
 
 # 💫 About Me
 
-I'm a dedicated **Full-Stack Developer & Embedded Systems Engineer** with a passion for creating innovative solutions that bridge the gap between software and hardware. Currently, I serve as the Head Developer at **Cybrella** (2024) and as a Full Stack Web Developer and Programmer at **RJ Institute**. My expertise spans from web development to IoT and drone automation.
+I'm a dedicated **Full-Stack Developer x Software and Autonomous Systems Developer** with a passion for creating innovative solutions that bridge the gap between software and hardware. I lead projects that blend creativity with technical excellence. I built my personal blogging site using React JS and Appwrite and continue to drive full stack development projects. Currently, I’m expanding my expertise in Python (with a focus on OpenCV projects) and exploring innovative JavaScript, React, and NextJS solutions.
 
 ## 🛠️ Skills & Technologies
 
