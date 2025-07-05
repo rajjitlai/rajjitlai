@@ -196,7 +196,7 @@ Created **CyanoBactTheme**, a Visual Studio Code theme inspired by Cyberpunk aes
 ## 🌐 Online Presence
 
 - **GitHub**: [rajjitlai](https://github.com/rajjitlai)
-- **LinkedIn**: [Rajjit Laishram](https://linkedin.com/in/rajjit-laishram-a03a02255)
+- **LinkedIn**: [Rajjit Laishram](https://linkedin.com/in/rajjitlaishram)
 - **Twitter**: [@rajjitlai](https://twitter.com/rajjitlai)
 - **Instagram**: [@rajjitlaishram](https://www.instagram.com/rajjitlaishram/)
 - **Facebook**: [Rajjit Laishram](https://www.facebook.com/rajjitlaishram/)
