@@ -17,7 +17,7 @@
 
 # 💫 About Me
 
-I'm a dedicated **Full-Stack Developer x Software and Autonomous Systems Developer** with a passion for creating innovative solutions that bridge the gap between software and hardware. I lead projects that blend creativity with technical excellence. I built my personal blogging site using React JS and Appwrite and continue to drive full stack development projects. Currently, I’m expanding my expertise in Python (with a focus on OpenCV projects) and exploring innovative JavaScript, React, and NextJS solutions.
+I'm a dedicated **IoT Software Developer** with a passion for creating innovative solutions that bridge the gap between software and hardware. I lead projects that blend creativity with technical excellence. I built my personal blogging site using React JS and Appwrite and continue to drive full stack development projects. Currently, I’m expanding my expertise in Python (with a focus on OpenCV projects) and exploring innovative JavaScript, React, and NextJS solutions.
 
 ## 🛠️ Skills & Technologies
 
@@ -37,6 +37,7 @@ I'm a dedicated **Full-Stack Developer x Software and Autonomous Systems Develop
 
 - **Proficient**: JavaScript, Python, C++
 - **Familiar**: C, Java
+- **Framework**: React JS, Node JS, Next JS
 
 ### 🔹 Other Tools
 
