@@ -122,8 +122,6 @@ Created **CyanoBactTheme**, a Visual Studio Code theme inspired by Cyberpunk aes
   <img width="12" />
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="30" alt="netlify logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/heroku/430098" height="30" alt="heroku logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
@@ -141,31 +139,19 @@ Created **CyanoBactTheme**, a Visual Studio Code theme inspired by Cyberpunk aes
 ## 💳 My Profile Summary
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajjitlai&theme=algolia" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajjitlai&theme=aura" />
 </div>
 
 ## ✒️ My Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajjitlai&locale=en&hide_title=false&layout=compact&card_width=720&langs_count=30&theme=algolia&hide_border=false&order=2&custom_title=My%20Used%20Languages" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajjitlai&locale=en&hide_title=false&layout=compact&card_width=720&langs_count=30&theme=aura&hide_border=false&order=2&custom_title=My%20Used%20Languages" alt="languages graph"  />
 </div>
 
 ## 📟 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajjitlai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1&custom_title=My%20Stats" alt="stats graph"  />
-</div>
-
-## 🎮 My Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rajjitlai&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
-</div>
-
-## 🏆 My Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=rajjitlai&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajjitlai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1&custom_title=My%20Stats" alt="stats graph"  />
 </div>
 
 ## 📈 My Activity Graph
