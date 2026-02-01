@@ -142,18 +142,6 @@ Created **CyanoBactTheme**, a Visual Studio Code theme inspired by Cyberpunk aes
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajjitlai&theme=aura" />
 </div>
 
-## ✒️ My Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajjitlai&locale=en&hide_title=false&layout=compact&card_width=720&langs_count=30&theme=aura&hide_border=false&order=2&custom_title=My%20Used%20Languages" alt="languages graph"  />
-</div>
-
-## 📟 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajjitlai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1&custom_title=My%20Stats" alt="stats graph"  />
-</div>
-
 ## 📈 My Activity Graph
 
 <div align="center">
