@@ -2,13 +2,17 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=35&pause=1000&color=00EEFF&center=true&vCenter=true&width=800&height=60&lines=RAJJIT+LAISHRAM" alt="Name" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=1000&color=00EEFF&center=true&vCenter=true&width=500&height=50&lines=RAJJIT+LAISHRAM" alt="Name" />
   </a>
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=00EEFF&center=true&vCenter=true&width=800&height=40&lines=ꯍꯦꯜꯂꯣ+(MEITEI+GREETING);IoT+SOFTWARE+DEVELOPER;AUTONOMOUS+ENGINEER;BUILDING+SMART+MACHINES" alt="Roles" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=00EEFF&center=true&vCenter=true&width=600&height=30&lines=IoT+SOFTWARE+DEVELOPER;AUTONOMOUS+ENGINEER;BUILDING+SMART+MACHINES" alt="Roles" />
   </a>
 </p>
+
+<div align="center">
+  <h3>ꯍꯦꯜꯂꯣ (HELLO)</h3>
+</div>
 
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=rajjitlai&label=Views&color=blue&style=plastic&style=icon" alt="rajjitlai" /> 
