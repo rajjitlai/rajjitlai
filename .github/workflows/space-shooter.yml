@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: generate-space-shooter-animation
         uses: czl9707/gh-space-shooter@main
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           github_user_name: ${{ github.repository_owner }}
           # The output is a GIF file
