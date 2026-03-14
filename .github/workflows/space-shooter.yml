@@ -16,15 +16,16 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate-space-shooter-animation
-        uses: czl9707/gh-space-shooter@main
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: checkout
+        uses: actions/checkout@v4 # Using v4 as it's the current stable standard
         with:
-          github_user_name: ${{ github.repository_owner }}
-          # The output is a GIF file
-          # The resulting file will be available in the 'dist' directory
-          # and then pushed to the 'output' branch
+          fetch-depth: 0
+
+      - name: generate-space-shooter-animation
+        uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: dist/space-shooter.gif
 
       - name: push space-shooter.gif to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
