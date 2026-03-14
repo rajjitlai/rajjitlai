@@ -17,9 +17,12 @@ jobs:
 
     steps:
       - name: checkout
-        uses: actions/checkout@v4 # Using v4 as it's the current stable standard
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      - name: ensure dist
+        run: mkdir -p dist
 
       - name: generate-space-shooter-animation
         uses: czl9707/gh-space-shooter@v2
