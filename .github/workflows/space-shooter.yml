@@ -1,11 +1,9 @@
-name: Generate snake animation
+name: Generate space shooter animation
 
 on:
   schedule:
-    - cron: "* */12 * * *"
-
+    - cron: "0 */12 * * *" # Runs every 12 hours
   workflow_dispatch:
-
   push:
     branches:
       - master
@@ -18,13 +16,15 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: generate-space-shooter-animation
+        uses: czl9707/gh-space-shooter@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
+          # The output is a GIF file
+          # The resulting file will be available in the 'dist' directory
+          # and then pushed to the 'output' branch
 
-      - name: push snake.svg to the output branch
+      - name: push space-shooter.gif to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

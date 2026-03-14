@@ -1,189 +1,112 @@
 ###
 
-<div align="right">
-  <a href="mailto:rajjitlai@mail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=rajjitlai@mail.com&logo=gmail&label=&color=050f2c&logoColor=00aeff&labelColor=fff050f2c&style=for-the-badge" height="30" alt="gmail logo"  />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=35&pause=1000&color=00EEFF&center=true&vCenter=true&width=800&height=60&lines=RAJJIT+LAISHRAM" alt="Name" />
   </a>
-</div>
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=00EEFF&center=true&vCenter=true&width=800&height=40&lines=ꯍꯦꯜꯂꯣ+(MEITEI+GREETING);IoT+SOFTWARE+DEVELOPER;AUTONOMOUS+ENGINEER;BUILDING+SMART+MACHINES" alt="Roles" />
+  </a>
+</p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rajjitlai&label=Views&color=blue&style=plastic&style=icon" alt="rajjitlai" /> </p>
-
-###
-
-<div align="center">
-  <img width="180" src="https://media.tenor.com/hJIQKdiU47sAAAAM/rabbit-cute.gif" alt="Rajjit Laishram waving gif">
-  <h1 style="margin: 0;">Hello, I'm Rajjit Laishram 👋🏻</h1>
-</div>
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=rajjitlai&label=Views&color=blue&style=plastic&style=icon" alt="rajjitlai" /> 
+</p>
 
 # 💫 About Me
 
-I'm a dedicated **IoT Software Developer** with a passion for creating innovative solutions that bridge the gap between software and hardware. I lead projects that blend creativity with technical excellence. I built my personal blogging site using React JS and Appwrite and continue to drive full stack development projects. Currently, I’m expanding my expertise in Python (with a focus on OpenCV projects) and exploring innovative JavaScript, React, and NextJS solutions.
+I'm **Rajjit Laishram**, an **IoT Software Developer** and **Autonomous Systems Engineer** based in Imphal, Manipur. I specialize in building intelligent systems that bridge the gap between hardware and software. My work focus on creating sophisticated autonomous systems that combine hardware intelligence with software sophistication.
 
-## 🛠️ Skills & Technologies
+<p align="center">
+  <i>"Happiness Comes from Coding and Building Machines That Think."</i>
+</p>
 
-### 🔹 Web Development
+---
 
-- **Frontend**: React.js, Next.js, React Native (Expo), Tailwind CSS, ShadCN UI
-- **Backend**: Django, FastAPI, Express.js
-- **Databases**: MongoDB, Appwrite, SQL, MySQL, PostgreSQL, Firebase
+## 💼 Professional Career
 
-### 🔹 Embedded Systems & IoT
+### **IoT Software Developer, [Nibiaa](https://nibiaa.com)** (July 2025 - Present)
+Developing scalable IoT solutions for enterprise warehouse management, advanced real-time monitoring systems with edge processing, and overseeing full-stack architecture for cloud-hardware communication.
 
-- **Hardware**: Raspberry Pi, Pixhawk, Arduino, NodeMCU
-- **Software & Protocols**: DroneKit, WebSockets, Python scripting
-- **IoT Platforms**: MQTT, HTTP, WebSockets
+### **Lead Software Engineer, Nongin Aerial Wings Aid (NAWA)** (March 2025 - January 2026)
+Successfully deployed autonomous drone systems for the NIDAR competition. Focused on system maintenance, documentation, and optimization of deployed systems.
 
-### 🔹 Programming Languages
+### **Autonomous Systems Developer, NIELIT Imphal (Drone Lab)** (Feb 2025 - Jan 2026)
+Developed React Native mobile control systems for drone hardware and engineered mission control algorithms for complex autonomous flight paths.
 
-- **Proficient**: JavaScript, Python, C++
-- **Familiar**: C, Java
-- **Framework**: React JS, Node JS, Next JS
+---
 
-### 🔹 Other Tools
+## 🛠️ Technical Expertise
 
-- Git, Docker, Linux, CI/CD
-- REST APIs, GraphQL, WebSockets
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,cpp,c,mysql,postgres,mongodb,appwrite,docker,aws,github,linux,vscode,bash,figma,tailwind" />
+  </a>
+</p>
+
+### 🔹 Embedded & IoT
+- **Hardware**: Raspberry Pi, ESP32, Arduino, NodeMCU, Pixhawk
+- **Protocols**: MQTT, CoAP, HTTP, WebSockets
+- **Edge Computing**: Edge processing, Embedded Linux, DroneKit
+
+### 🔹 Full-Stack & Neural Networks
+- **Frontend**: Next.js, React Native (Expo), TypeScript, Tailwind CSS, ShadCN
+- **Backend**: Node.js, FastAPI, Django
+- **Neural Networks**: TensorFlow, PyTorch, OpenCV, YOLO
+
+---
 
 ## 📌 Notable Projects
 
-### 📝 Dynamic Blog Web Application
+### 🛸 Autonomous Drone Systems
+Led the team to the finals of the **NIDAR Drone Competition**. Architected a custom GCS with real-time survivor detection using OpenCV and engineered multi-drone autonomous coordination.
 
-Built a React X Appwrite Blog platform where users read blog posts with category-based filtering, download notes, offering an optimized and user-friendly experience.
+### 🧪 Virtual Science Lab
+A web-based virtual laboratory platform enabling students to conduct chemistry and physics experiments online without physical equipment. [Visit Lab](https://virtual-science-lab.appwrite.network/)
 
-### Affiliate Marking Showcase Web Application
+### 💬 Disappearo
+A privacy-first ephemeral chat application where conversations automatically disappear. [Visit App](https://disappearo.appwrite.network/)
 
-Treat Path Global is the most trusted destination for the highest quality medicines and health and pet care solutions. Our mission is to provide accessible and reliable healthcare options to everyone. [Visit now](https://treatpathglobal.com/)
+### 🎵 Custom Sounds
+A web-based music player for uploading, streaming, and managing audio tracks with visual waveform playback. [Visit Site](https://custom-sounds.netlify.app/)
 
-### Portfolio Web Application Designs
+### 🛒 Treat Path Global Health
+A React-based affiliate e-commerce website for healthcare and pet-care products. [Visit Store](https://treatpathglobal.com/)
 
-Designed many different Portfolio Web Applications which can be used by any user or company, showcasing his/her abilities and performance to the whole world.
+### 📱 My AI Walls & Apps
+A collection of mobile applications including AI-generated wallarappers and minimal utility tools. [GitHub Repo](https://github.com/rajjitlai/rajjitlaishram-apps)
 
-### 🔧 Event Management System
+---
 
-Designed a **Django-based** system enabling users to register events, manage participants, and generate leaderboards for various competitions.
-
-### 🌐 Personal Portfolio Website
-
-Developed and deployed a personal portfolio using **React.js** and **Appwrite**, showcasing my projects and skills. [Visit Portfolio](https://rajjitlaishram.netlify.app/)
-
-### 🎨 CyanoBactTheme for VS Code
-
-Created **CyanoBactTheme**, a Visual Studio Code theme inspired by Cyberpunk aesthetics, enhancing the coding experience with vibrant visuals. [GitHub Repository](https://github.com/rajjitlai/CyanoBactTheme)
-
-### 📚 Educational Repositories
-
-- **BCA 2nd Sem Python Programs**: A collection of Python programs tailored for BCA students. [GitHub Repository](https://github.com/rajjitlai/bca-2nd-sem-Python)
-- **BCA 3rd Sem C Programs**: Practical codes and test examples for learning Data Structures using C. [GitHub Repository](https://github.com/rajjitlai/BCA-3rd-SEM-C-Programs)
-
-## 💻 My Tech Stack
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="30" alt="appwrite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=atom" height="30" alt="atom logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="30" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-</div>
-
-## 💳 My Profile Summary
+## 📊 My Coding Universe
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajjitlai&theme=aura" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajjitlai&show_icons=true&theme=aura&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajjitlai&layout=compact&theme=aura&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajjitlai&theme=aura&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 📈 My Activity Graph
-
+### 🌌 Space Contribution Journey
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajjitlai&radius=16&theme=arctic&area=true&order=5&custom_title=My%20Activity%20Graph" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/rajjitlai/rajjitlai/output/space-shooter.gif" alt="Space Shooter contribution graph" />
 </div>
-
-## 🙌🏻 My Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rajjitlai/rajjitlai/output/snake.svg" alt="Snake animation" />
-</div>
-
-## 💰You can help me by Donating
-
-<div align="center">
-  <a href="https://www.paypal.com/paypalme/rajjitlaishram" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo"  />
-  </a>
-</div>
-
-## 🎯 Current Endeavors
-
-- Advancing **drone navigation systems** through AI-driven automation.
-- Scaling **real-time applications** to enhance performance and reliability.
-- Deepening knowledge in **Python Programming** and exploring **OpenCV Projects**.
-
-## 🌐 Online Presence
-
-- **GitHub**: [rajjitlai](https://github.com/rajjitlai)
-- **LinkedIn**: [Rajjit Laishram](https://linkedin.com/in/rajjitlaishram)
-- **Twitter**: [@rajjitlai](https://twitter.com/rajjitlai)
-- **Instagram**: [@rajjitlaishram](https://www.instagram.com/rajjitlaishram/)
-- **Facebook**: [Rajjit Laishram](https://www.facebook.com/rajjitlaishram/)
-- **YouTube**: [RJ Codes](https://www.youtube.com/@rjinstitute.rajjit)
-- **Portfolio**: [rajjitlaishram.netlify.app](https://rajjitlaishram.netlify.app)
-
-## 📬 Let's Connect!
-
-I'm always eager to collaborate, learn, and contribute to innovative projects. Feel free to reach out through any of the platforms above.
-
-💡 "Happiness Comes from Coding."
-
-### Show some ❤️ by starring some of the repositories
 
 ---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="mailto:rajjitlai@mail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/rajjitlaishram"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/rajjitlai"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://rjsblog.in"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white" /></a>
+  <a href="https://rajjitlaishram.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+</div>
+
+<p align="center">
+  <i>Last updated: March 2026</i>
+</p>
