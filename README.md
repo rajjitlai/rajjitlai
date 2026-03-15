@@ -23,7 +23,7 @@
 I'm **Rajjit Laishram**, an **IoT Software Developer** and **Autonomous Systems Engineer** based in Imphal, Manipur. I specialize in building intelligent systems that bridge the gap between hardware and software. My work focus on creating sophisticated autonomous systems that combine hardware intelligence with software sophistication.
 
 <p align="center">
-  <i>"Happiness Comes from Coding and Building Machines That Think."</i>
+  <i>"Happiness Comes from Coding! And I Build Machines That Think."</i>
 </p>
 
 ---
