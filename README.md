@@ -6,12 +6,15 @@
   </a>
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=00EEFF&center=true&vCenter=true&width=600&height=30&lines=IoT+SOFTWARE+DEVELOPER;AUTONOMOUS+ENGINEER;BUILDING+SMART+MACHINES" alt="Roles" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=00EEFF&center=true&vCenter=true&width=600&height=30&lines=DRONE+SOFTWARE+ENGINEER;IoT+DEVELOPER;BUILDING+SMART+MACHINES" alt="Roles" />
   </a>
 </p>
 
 <div align="center">
   <h3>ꯍꯦꯜꯂꯣ (HELLO)</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Current_Focus-Drone_GCS_%26_Automation_%40_NIELIT_Imphal-00EEFF?style=for-the-badge&logoColor=black" alt="Current Focus" />
+  </p>
 </div>
 
 <p align="right"> 
@@ -20,9 +23,9 @@
 
 # 💫 About Me
 
-I'm **Rajjit Laishram**, an **IoT Software Developer** and **Autonomous Systems Engineer** based in Imphal, Manipur. I specialize in building the software layer between physical hardware and intelligent decision systems — from embedded edge devices to AI-driven monitoring platforms and autonomous drone systems.
+I'm **Rajjit Laishram**, a **Drone Software Developer** and **Autonomous Systems Engineer** based in Imphal, Manipur. I specialize in building the software layer between physical hardware and intelligent decision systems — from autonomous drone software and GCS systems to IoT edge computing and embedded AI.
 
-Currently at **Nibiaa**, building enterprise IoT infrastructure with hybrid LoRaWAN/Satellite monitoring, offline AI anomaly detection, and MCP-based tool orchestration. Previously led autonomous drone software development at **NAWA**, reaching the finals of India's NIDAR Disaster Management competition with 215+ real-world flight tests.
+Currently working as a **Project Assistant** at **NIELIT Imphal (Drone Electronics Lab)**, focusing on drone software development, GCS customization, drone scripting & automation, AI integration, and project support. Previously engineered enterprise IoT & edge AI infrastructure at **Nibiaa** and led autonomous drone software development at **NAWA** (NIDAR Disaster Management finalist with 215+ real-world flight tests).
 
 <p align="center">
   <i>"I write the code that makes machines think."</i>
@@ -32,7 +35,12 @@ Currently at **Nibiaa**, building enterprise IoT infrastructure with hybrid LoRa
 
 ## 💼 Professional Experience
 
-### **IoT Software Developer — [Nibiaa](https://nibiaa.com)** (July 2025 – Present)
+### **Project Assistant — NIELIT Imphal (Drone Electronics Lab)** (July 2026 – Present)
+- Developing drone software stacks including custom Ground Control Station (GCS) software, drone scripting, and autonomous flight routines.
+- Engineering AI integration pipelines and automation logic for intelligent drone operations.
+- Providing technical project support and software development for drone electronics lab initiatives.
+
+### **IoT Software Developer — [Nibiaa](https://nibiaa.com)** (July 2025 – July 2026)
 - Designed and demonstrated a prototype hybrid indoor/outdoor asset tracking system using LoRaWAN and satellite communication — built a simulated monitoring dashboard to evaluate the use case for an enterprise equipment rental client.
 - Built a custom AI alerting application with geofencing, restricted zone breach detection, and AI-driven anomaly recommendations integrated directly into the IoT platform.
 - Researched and developed MCP connectivity with Ollama for offline AI inference inside IoT platforms — keeping all device data fully on-premise with zero cloud dependency for AI processing.
@@ -64,10 +72,11 @@ Currently at **Nibiaa**, building enterprise IoT infrastructure with hybrid LoRa
 - **Protocols**: MQTT, CoAP, WebSockets, RTSP, LoRaWAN, I2C, SPI, UART
 - **Edge & Connectivity**: Edge Computing, Embedded Linux, DroneKit, Satellite Communication
 
-### 🔹 Autonomous Systems
-- **Flight**: DroneKit, MAVLink, Multi-GPS Cross-Validation, Failsafe Logic
-- **Computer Vision**: OpenCV, YOLO, Hailo AI Architecture
-- **Streaming**: RTSP, MJPEG, Custom Video Stream Switching
+### 🔹 Autonomous Systems & Drones
+- **Flight Controllers & Ecosystem**: Pixhawk, PX4, ArduPilot, DroneKit, MAVLink, Multi-GPS Cross-Validation, Failsafe Logic
+- **Ground Control & Automation**: Custom Electron Desktop GCS, QGroundControl, Mission Planner, Python Drone Scripting & Automation
+- **Computer Vision & AI**: OpenCV, YOLO, Hailo AI Architecture, Edge AI Integration
+- **Streaming & Telemetry**: RTSP, MJPEG, Custom Video Stream Switching, Telemetry Data Pipelines
 
 ### 🔹 AI & Backend
 - **Offline AI**: Ollama, MCP Tool Orchestration
@@ -82,6 +91,11 @@ Currently at **Nibiaa**, building enterprise IoT infrastructure with hybrid LoRa
 ---
 
 ## 📌 Notable Projects
+
+### 🛸 Drone GCS & Automation Stack — NIELIT Imphal
+Drone software stack and custom Ground Control Station (GCS) built for intelligent flight operations, drone scripting, telemetry monitoring, and embedded AI integration in drone electronics.
+
+**Stack:** Python · DroneKit · MAVLink · Electron · React · OpenCV · Edge AI · Raspberry Pi · Pixhawk
 
 ### 🛸 Autonomous Drone System — NIDAR Competition
 Complete autonomous drone software stack built from scratch. Custom Electron desktop GCS + YOLO/Hailo AI survivor detection (~80% accuracy) + switchable RTSP/MJPEG streaming + multi-drone coordination. Validated across 215+ real-world flight tests. NIDAR Finalist.
@@ -147,5 +161,5 @@ Custom-designed and built from scratch — an educational platform offering tech
 </div>
 
 <p align="center">
-  <i>Last updated: May 2026</i>
+  <i>Last updated: July 2026</i>
 </p>
